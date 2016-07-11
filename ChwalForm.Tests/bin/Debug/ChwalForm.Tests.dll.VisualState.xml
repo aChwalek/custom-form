@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1004]C:\Users\Antoine\Documents\Visual Studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.Tests.dll</TopNode>
+  <SelectedNode>[0-1000]ChwalForm.Tests.FormTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]C:\Users\Antoine\Documents\Visual Studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]ChwalForm" Expanded="true" />
+    <Node UniqueName="[0-1006]ChwalForm.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]ChwalForm.Tests.FormTests" Expanded="true" />
+  </Nodes>
+</VisualState>

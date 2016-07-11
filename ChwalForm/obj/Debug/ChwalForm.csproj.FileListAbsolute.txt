@@ -1,0 +1,5 @@
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm\bin\Debug\ChwalForm.dll
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm\bin\Debug\ChwalForm.pdb
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm\obj\Debug\ChwalForm.csprojResolveAssemblyReference.cache
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm\obj\Debug\ChwalForm.dll
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm\obj\Debug\ChwalForm.pdb

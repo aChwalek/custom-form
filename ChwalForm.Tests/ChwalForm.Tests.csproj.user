@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\Antoine\Documents\Visual Studio 2015\Projects\ChwalForm\packages\NUnit.Runners.Net4.2.6.4\tools\nunit.exe</StartProgram>
+    <StartArguments>ChwalForm.Tests.dll</StartArguments>
+  </PropertyGroup>
+</Project>

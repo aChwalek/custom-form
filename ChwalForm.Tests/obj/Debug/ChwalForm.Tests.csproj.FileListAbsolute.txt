@@ -1,0 +1,9 @@
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.Tests.dll
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.Tests.pdb
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.dll
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\nunit.framework.dll
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.pdb
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\nunit.framework.xml
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\obj\Debug\ChwalForm.Tests.csprojResolveAssemblyReference.cache
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\obj\Debug\ChwalForm.Tests.dll
+c:\users\antoine\documents\visual studio 2015\Projects\ChwalForm\ChwalForm.Tests\obj\Debug\ChwalForm.Tests.pdb

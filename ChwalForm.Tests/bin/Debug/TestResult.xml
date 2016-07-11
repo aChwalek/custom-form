@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Antoine\Documents\Visual Studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.Tests.dll" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-07-11" time="15:09:23">
+  <environment nunit-version="2.6.4.14350" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Antoine\Documents\Visual Studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug" machine-name="ANTOINEMAC" user="Antoine" user-domain="AntoineMac" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Antoine\Documents\Visual Studio 2015\Projects\ChwalForm\ChwalForm.Tests\bin\Debug\ChwalForm.Tests.dll" executed="True" result="Success" success="True" time="0.041" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ChwalForm" executed="True" result="Success" success="True" time="0.041" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.040" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="FormTests" executed="True" result="Success" success="True" time="0.039" asserts="0">
+                <results>
+                  <test-case name="ChwalForm.Tests.FormTests.create_answer" executed="True" result="Success" success="True" time="0.004" asserts="2" />
+                  <test-case name="ChwalForm.Tests.FormTests.create_questions" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="ChwalForm.Tests.FormTests.set_form_title" executed="True" result="Success" success="True" time="0.023" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

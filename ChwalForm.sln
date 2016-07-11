@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChwalForm", "ChwalForm\ChwalForm.csproj", "{0006948F-5216-44FC-A5E3-E01EA49400C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChwalForm.Tests", "ChwalForm.Tests\ChwalForm.Tests.csproj", "{02286FBF-5139-4F49-AED2-56B4091D135E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0006948F-5216-44FC-A5E3-E01EA49400C3} = {0006948F-5216-44FC-A5E3-E01EA49400C3}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0006948F-5216-44FC-A5E3-E01EA49400C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0006948F-5216-44FC-A5E3-E01EA49400C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0006948F-5216-44FC-A5E3-E01EA49400C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0006948F-5216-44FC-A5E3-E01EA49400C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02286FBF-5139-4F49-AED2-56B4091D135E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02286FBF-5139-4F49-AED2-56B4091D135E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02286FBF-5139-4F49-AED2-56B4091D135E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02286FBF-5139-4F49-AED2-56B4091D135E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
